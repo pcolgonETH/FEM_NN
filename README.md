@@ -6,11 +6,11 @@ This repository contains essential files for a project aimed at developing and i
 
 ## 📂 Repository Structure
 
-- **`data/`**: Raw data files generated from FE simulations. These include strain-stress datasets used for training and testing.
-- **`preprocessing/`**: Scripts for preprocessing raw data, including scaling, normalization, and formatting routines.
-- **`models/`**: Contains deep learning models, including:
+- **`Raw_Data/`**: Raw data files generated from FE simulations. These include strain-stress datasets used for training and testing.
+- **`Pre_Processing_Files/`**: Scripts for extracting, preprocessing raw data.
+- **`NN_Model_Files/`**: Contains deep learning models, including:
   - Example cases for testing and experimentation.
   - Pre-trained weights for immediate use.
-  - Configuration files to replicate training processes.
-
+- **`GUI/`**: Contains all necessaray files to execute a GUI built along this thesis for a more streamlined workflow
+- **`UMAT_Files/`**: Contains User Material Subroutine files
 ---
